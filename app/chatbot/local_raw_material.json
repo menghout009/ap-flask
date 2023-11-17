@@ -1,0 +1,126 @@
+[
+    [
+        "gasoline",
+        "gasoline is price 4,200 Riels/liter"
+    ],
+    [
+        "rice",
+        "rice is price 2,500 Riels/Kg"
+    ],
+    [
+        "beef",
+        "beef is price 45,000 Riels/Kg"
+    ],
+    [
+        "pork",
+        "pork is price 25,000 Riels/Kg"
+    ],
+    [
+        "treirsa",
+        "treirsa is price 12,000 Riels/Kg"
+    ],
+    [
+        "gold kg out",
+        "gold kg out is price 2,305$ no"
+    ],
+    [
+        "gold kg in",
+        "gold kg in is price 2,275$ no"
+    ],
+    [
+        "gold rim out",
+        "gold rim out is price 870,000 no"
+    ],
+    [
+        "gold rim in",
+        "gold rim in is price 761,000 no"
+    ],
+    [
+        "money dollar out",
+        "money dollar out is price 4,135 no"
+    ],
+    [
+        "money dollar in",
+        "money dollar in is price 4,123 no"
+    ],
+    [
+        "money baht out",
+        "money baht out is price 125,20 Riels/baht"
+    ],
+    [
+        "money baht in",
+        "money baht in is price 120 Riels/baht"
+    ],
+    [
+        "rumduol rice",
+        "rumduol rice is price 4,000 Riels/Kg"
+    ],
+    [
+        "jasmine rice khmer",
+        "jasmine rice khmer is price 2,500 Riels/Kg"
+    ],
+    [
+        "phka khnhi rice",
+        "phka khnhi rice is price 2,500 Riels/Kg"
+    ],
+    [
+        "neang khon rice",
+        "neang khon rice is price 5,500 Riels/Kg"
+    ],
+    [
+        "soybeans",
+        "soybeans is price 4,000 Riels/Kg"
+    ],
+    [
+        "tre ros sros",
+        "tre ros sros is price 11,000 Riels/Kg"
+    ],
+    [
+        "dried fish",
+        "dried fish is price 40,000 Riels/Kg"
+    ],
+    [
+        "meat prahok",
+        "meat prahok is price 20,000 Riels/Kg"
+    ],
+    [
+        "net pork",
+        "net pork is price 25,000 Riels/Kg"
+    ],
+    [
+        "beef thigh",
+        "beef thigh is price 45,000 Riels/Kg"
+    ],
+    [
+        "chicken",
+        "chicken is price 27,000 Riels/Kg"
+    ],
+    [
+        "chicken alive (sre)",
+        "chicken alive (sre) is price 18,000 Riels/Kg"
+    ],
+    [
+        "eggs",
+        "eggs is price 6,000 Riels/10 Eggs"
+    ],
+    [
+        "salt smooth",
+        "salt smooth is price 1,000 Riels/Kg"
+    ],
+    [
+        "salt stone",
+        "salt stone is price 1,000 Riels/Kg"
+    ],
+    [
+        "sugar",
+        "sugar is price 4,000 Riels/Kg"
+    ],
+    [
+        "seasoning powder",
+        "seasoning powder is price 13,000 Riels/Kg"
+    ],
+    [
+        "ma ma noodles (khmer)",
+        "ma ma noodles (khmer) is price 22,000 Riels/Carton"
+    ]
+]
